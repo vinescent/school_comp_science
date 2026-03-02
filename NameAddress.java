@@ -1,6 +1,6 @@
 //Shaurya Jain
 //NameAddress
-// This program displays your name, street address, and city, st, zip.
+//This program displays your name, street address, and city, st, zip.
 
 class NameAddress {
   public static void main(String[] args) {
